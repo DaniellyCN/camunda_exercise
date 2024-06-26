@@ -1,0 +1,7 @@
+1) Não há o nome do processo diagramado, apenas as roles.
+2) Em Sales, o evento de início do processo está escrito de forma errada(no tempo verbal) já que para um evento de 
+início(start event), a melhor prática é colocar no passado a label.
+3) em Sales, o primeiro gateway, que é exclusivo, deveria ter uma pergunta.
+4) Não há labels (descrição de texto) nos eventos finais(end events).
+5)Há um parallel gateway seguido por 2 eventos que deveria se chamar event-based gateway.
+6) Há partes do processo que estão em pool equivocadas.
